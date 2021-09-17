@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkDone</string>
+    <string name="title_dashboard">This is a Dashboard</string>
+    <string name="title_screen1">This is Screen One</string>
+    <string name="title_screen2">This is Screen Two</string>
+    <string name="title_screen3">This is Screen Three</string>
+    <string name="subtitle">Press the buttons to navigate to other screens</string>
+</resources>
